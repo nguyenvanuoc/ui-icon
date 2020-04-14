@@ -4689,7 +4689,7 @@
 .uii-small-up-outline:before {
   content: "\ef12";
 }
-.uii-social-sharing-outline:before {
+.uii-sharing-outline:before {
   content: "\ef13";
 }
 .uii-split-33-outline:before {
@@ -5742,7 +5742,7 @@
 .uii-small-up-outline:before {
   content: "\f071";
 }
-.uii-social-sharing-outline:before {
+.uii-sharing-outline:before {
   content: "\f072";
 }
 .uii-split-33-outline:before {
@@ -7755,184 +7755,184 @@
 .uii--stopwatch:before {
   content: "\f310";
 }
-.uii-social-logo-behance:before {
+.uii-logo-behance:before {
   content: "\f311";
 }
-.uii-social-logo-blogger:before {
+.uii-logo-blogger:before {
   content: "\f312";
 }
-.uii-social-logo-buffer:before {
+.uii-logo-buffer:before {
   content: "\f313";
 }
-.uii-social-logo-buysellads:before {
+.uii-logo-buysellads:before {
   content: "\f314";
 }
-.uii-social-logo-codepen:before {
+.uii-logo-codepen:before {
   content: "\f315";
 }
-.uii-social-logo-creative-market:before {
+.uii-logo-creative-market:before {
   content: "\f316";
 }
-.uii-social-logo-crunchbase:before {
+.uii-logo-crunchbase:before {
   content: "\f317";
 }
-.uii-social-logo-deviantart:before {
+.uii-logo-deviantart:before {
   content: "\f318";
 }
-.uii-social-logo-dribbble:before {
+.uii-logo-dribbble:before {
   content: "\f319";
 }
-.uii-social-logo-dropbox:before {
+.uii-logo-dropbox:before {
   content: "\f31a";
 }
-.uii-social-logo-envato:before {
+.uii-logo-envato:before {
   content: "\f31b";
 }
-.uii-social-logo-evernote:before {
+.uii-logo-evernote:before {
   content: "\f31c";
 }
-.uii-social-logo-facebook:before {
+.uii-logo-facebook:before {
   content: "\f31d";
 }
-.uii-social-logo-fb-simple:before {
+.uii-logo-fb-simple:before {
   content: "\f31e";
 }
-.uii-social-logo-feedly:before {
+.uii-logo-feedly:before {
   content: "\f31f";
 }
-.uii-social-logo-flickr:before {
+.uii-logo-flickr:before {
   content: "\f320";
 }
-.uii-social-logo-github:before {
+.uii-logo-github:before {
   content: "\f321";
 }
-.uii-social-logo-google-plus:before {
+.uii-logo-google-plus:before {
   content: "\f322";
 }
-.uii-social-logo-instagram:before {
+.uii-logo-instagram:before {
   content: "\f323";
 }
-.uii-social-logo-lastfm:before {
+.uii-logo-lastfm:before {
   content: "\f324";
 }
-.uii-social-logo-linkedin:before {
+.uii-logo-linkedin:before {
   content: "\f325";
 }
-.uii-social-logo-medium:before {
+.uii-logo-medium:before {
   content: "\f326";
 }
-.uii-social-logo-meetup:before {
+.uii-logo-meetup:before {
   content: "\f327";
 }
-.uii-social-logo-messenger:before {
+.uii-logo-messenger:before {
   content: "\f328";
 }
-.uii-social-logo-myspace:before {
+.uii-logo-myspace:before {
   content: "\f329";
 }
-.uii-social-logo-paypal:before {
+.uii-logo-paypal:before {
   content: "\f32a";
 }
-.uii-social-logo-pinterest:before {
+.uii-logo-pinterest:before {
   content: "\f32b";
 }
-.uii-social-logo-product-hunt:before {
+.uii-logo-product-hunt:before {
   content: "\f32c";
 }
-.uii-social-logo-qq:before {
+.uii-logo-qq:before {
   content: "\f32d";
 }
-.uii-social-logo-reddit:before {
+.uii-logo-reddit:before {
   content: "\f32e";
 }
-.uii-social-logo-rss:before {
+.uii-logo-rss:before {
   content: "\f32f";
 }
-.uii-social-logo-shopify:before {
+.uii-logo-shopify:before {
   content: "\f330";
 }
-.uii-social-logo-skype:before {
+.uii-logo-skype:before {
   content: "\f331";
 }
-.uii-social-logo-slack:before {
+.uii-logo-slack:before {
   content: "\f332";
 }
-.uii-social-logo-snapchat:before {
+.uii-logo-snapchat:before {
   content: "\f333";
 }
-.uii-social-logo-soundcloud:before {
+.uii-logo-soundcloud:before {
   content: "\f334";
 }
-.uii-social-logo-spotify:before {
+.uii-logo-spotify:before {
   content: "\f335";
 }
-.uii-social-logo-squarespace:before {
+.uii-logo-squarespace:before {
   content: "\f336";
 }
-.uii-social-logo-trello:before {
+.uii-logo-trello:before {
   content: "\f337";
 }
-.uii-social-logo-tumblr:before {
+.uii-logo-tumblr:before {
   content: "\f338";
 }
-.uii-social-logo-twitter:before {
+.uii-logo-twitter:before {
   content: "\f339";
 }
-.uii-social-logo-unsplash:before {
+.uii-logo-unsplash:before {
   content: "\f33a";
 }
-.uii-social-logo-vimeo:before {
+.uii-logo-vimeo:before {
   content: "\f33b";
 }
-.uii-social-logo-vine:before {
+.uii-logo-vine:before {
   content: "\f33c";
 }
-.uii-social-logo-vk:before {
+.uii-logo-vk:before {
   content: "\f33d";
 }
-.uii-social-logo-wechat:before {
+.uii-logo-wechat:before {
   content: "\f33e";
 }
-.uii-social-logo-weibo:before {
+.uii-logo-weibo:before {
   content: "\f33f";
 }
-.uii-social-logo-whatsapp:before {
+.uii-logo-whatsapp:before {
   content: "\f340";
 }
-.uii-social-logo-wikipedia:before {
+.uii-logo-wikipedia:before {
   content: "\f341";
 }
-.uii-social-logo-wordpress:before {
+.uii-logo-wordpress:before {
   content: "\f342";
 }
-.uii-social-logo-yelp:before {
+.uii-logo-yelp:before {
   content: "\f343";
 }
-.uii-social-logo-youtube:before {
+.uii-logo-youtube:before {
   content: "\f344";
 }
-.uii-social-spectrum:before {
+.uii-spectrum:before {
   content: "\f345";
 }
-.uii-social-telegram:before {
+.uii-telegram:before {
   content: "\f346";
 }
-.uii-social-tiktok:before {
+.uii-tiktok:before {
   content: "\f347";
 }
-.uii-social-twitch:before {
+.uii-twitch:before {
   content: "\f348";
 }
-.uii-social-discord:before {
+.uii-discord:before {
   content: "\f349";
 }
-.uii-social-google:before {
+.uii-google:before {
   content: "\f34a";
 }
-.uii-social-logo-500px:before {
+.uii-logo-500px:before {
   content: "\f34b";
 }
-.uii-social-logo-angellist:before {
+.uii-logo-angellist:before {
   content: "\f34c";
 }
 .uii-symsbol-eight:before {
@@ -12873,7 +12873,7 @@
 .uii-small-up:before {
   content: "\f9ba";
 }
-.uii-social-sharing:before {
+.uii-sharing:before {
   content: "\f9bb";
 }
 .uii-split-33:before {
