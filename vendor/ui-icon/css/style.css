@@ -4731,10 +4731,10 @@
 .uii-system-update-outline:before {
   content: "\ef20";
 }
-.uii-2-outline:before {
+.uii-text-2-outline:before {
   content: "\ef21";
 }
-.uii-outline:before {
+.uii-text-outline:before {
   content: "\ef22";
 }
 .uii-texture-outline:before {
