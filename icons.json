@@ -1,0 +1,5204 @@
+{
+	"others":{
+		"name":"Others",
+		"description":"",
+		"list":[
+			{
+		      "order": 4338,
+		      "name": "uii-file-chart-bar",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 4337,
+		      "name": "uii-file-chart-pie",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 4336,
+		      "name": "uii-scale",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 4335,
+		      "name": "uii-tree",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 4334,
+		      "name": "uii-tree-money",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 4333,
+		      "name": "uii-chart-bar-33",
+		      "prevSize": 32
+		    }
+		]
+	},
+	"weather":{
+		"name":"Weathers",
+		"description":"",
+		"list":[
+			{
+		      "order": 2,
+		      "name": "uii-cloud-hail-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 3,
+		      "name": "uii-cloud-light-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 4,
+		      "name": "uii-cloud-moon-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 5,
+		      "name": "uii-cloud-rain-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 6,
+		      "name": "uii-cloud-snow-34-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 7,
+		      "name": "uii-cloud-snow-42-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 8,
+		      "name": "uii-cloud-sun-17-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 9,
+		      "name": "uii-drops-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 10,
+		      "name": "uii-eclipse-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 11,
+		      "name": "uii-fahrenheit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 12,
+		      "name": "uii-fog-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 13,
+		      "name": "uii-forecast-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 14,
+		      "name": "uii-hurricane-44-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 15,
+		      "name": "uii-hurricane-45-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 16,
+		      "name": "uii-moon-cloud-drop-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 17,
+		      "name": "uii-moon-cloud-fog-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 18,
+		      "name": "uii-moon-cloud-hail-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 19,
+		      "name": "uii-moon-cloud-light-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 20,
+		      "name": "uii-moon-cloud-rain-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 21,
+		      "name": "uii-moon-cloud-snow-61-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 22,
+		      "name": "uii-moon-cloud-snow-62-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 23,
+		      "name": "uii-moon-fog-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 24,
+		      "name": "uii-moon-full-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 25,
+		      "name": "uii-moon-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 26,
+		      "name": "uii-moon-stars-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 27,
+		      "name": "uii-rainbow-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 28,
+		      "name": "uii-rain-hail-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 29,
+		      "name": "uii-rain-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 30,
+		      "name": "uii-sun-cloud-drop-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 31,
+		      "name": "uii-sun-cloud-fog-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 32,
+		      "name": "uii-sun-cloud-hail-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 33,
+		      "name": "uii-sun-cloud-light-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 34,
+		      "name": "uii-sun-cloud-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 35,
+		      "name": "uii-sun-cloud-rain-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 36,
+		      "name": "uii-sun-cloud-snow-54-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 37,
+		      "name": "uii-sun-cloud-snow-55-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 38,
+		      "name": "uii-sun-fog-30-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 39,
+		      "name": "uii-sun-fog-43-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 40,
+		      "name": "uii-umbrella-13-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 41,
+		      "name": "uii-wind-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 42,
+		      "name": "uii-celsius-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 43,
+		      "name": "uii-cloud-drop-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 44,
+		      "name": "uii-cloud-fog-31-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 45,
+		      "name": "uii-cloud-fog-32-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"users":{
+		"name":"Users",
+		"description":"",
+		"list":[
+			{
+		      "order": 46,
+		      "name": "uii-a-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 47,
+		      "name": "uii-a-heart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 48,
+		      "name": "uii-a-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 49,
+		      "name": "uii-badge-13-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 50,
+		      "name": "uii-badge-14-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 51,
+		      "name": "uii-badge-15-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 52,
+		      "name": "uii-circle-08-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 53,
+		      "name": "uii-circle-09-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 54,
+		      "name": "uii-circle-10-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 55,
+		      "name": "uii-contacts-44-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 56,
+		      "name": "uii-contacts-45-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 57,
+		      "name": "uii-delete-28-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 58,
+		      "name": "uii-delete-30-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 59,
+		      "name": "uii-face-man-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 60,
+		      "name": "uii-focus-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 61,
+		      "name": "uii-user-frame-31-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 62,
+		      "name": "uii-user-frame-32-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 63,
+		      "name": "uii-user-frame-33-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 64,
+		      "name": "uii-mickey-mouse-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 65,
+		      "name": "uii-multiple-11-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 66,
+		      "name": "uii-multiple-19-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 67,
+		      "name": "uii-multiple-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 68,
+		      "name": "uii-police-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 69,
+		      "name": "uii-property-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 70,
+		      "name": "uii-single-01-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 71,
+		      "name": "uii-single-02-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 72,
+		      "name": "uii-single-03-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 73,
+		      "name": "uii-single-04-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 74,
+		      "name": "uii-single-05-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 75,
+		      "name": "uii-users-wm-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 76,
+		      "name": "uii-voice-record-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 77,
+		      "name": "uii-wheelchair-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 78,
+		      "name": "uii-a-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 79,
+		      "name": "uii-accessibility-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 80,
+		      "name": "uii-a-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 81,
+		      "name": "uii-add-27-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 82,
+		      "name": "uii-add-29-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"ui":{
+		"name":"Users Interface",
+		"description":"",
+		"list":[
+					
+		    {
+		      "order": 83,
+		      "name": "uii-add-notification-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 84,
+		      "name": "uii-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 85,
+		      "name": "uii-alarm-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 86,
+		      "name": "uii-alarm-disable-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 87,
+		      "name": "uii-ban-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 88,
+		      "name": "uii-b-chart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 89,
+		      "name": "uii-b-chat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 90,
+		      "name": "uii-b-comment-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 91,
+		      "name": "uii-bell-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 92,
+		      "name": "uii-b-eye-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 93,
+		      "name": "uii-bin-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 94,
+		      "name": "uii-blog-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 95,
+		      "name": "uii-bluetooth-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 96,
+		      "name": "uii-bolt-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 97,
+		      "name": "uii-bookmarks-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 98,
+		      "name": "uii-b-preview-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 99,
+		      "name": "uii-bullet-list-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 100,
+		      "name": "uii-c-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 101,
+		      "name": "uii-calendar-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 102,
+		      "name": "uii-calendar-date-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 103,
+		      "name": "uii-calendar-day-view-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 104,
+		      "name": "uii-calendar-event-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 105,
+		      "name": "uii-calendar-event-create-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 106,
+		      "name": "uii-calendar-event-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 107,
+		      "name": "uii-calendar-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 108,
+		      "name": "uii-c-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 109,
+		      "name": "uii-c-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 110,
+		      "name": "uii-c-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 111,
+		      "name": "uii-chat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 112,
+		      "name": "uii-check-all-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 113,
+		      "name": "uii-check-double-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 114,
+		      "name": "uii-check-list-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 115,
+		      "name": "uii-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 116,
+		      "name": "uii-check-single-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 117,
+		      "name": "uii-c-info-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 118,
+		      "name": "uii-clock-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 119,
+		      "name": "uii-cloud-forecast-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 120,
+		      "name": "uii-cloud-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 121,
+		      "name": "uii-cogwheel-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 122,
+		      "name": "uii-comment-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 123,
+		      "name": "uii-comment-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 124,
+		      "name": "uii-configuration-tools-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 125,
+		      "name": "uii-c-question-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 126,
+		      "name": "uii-c-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 127,
+		      "name": "uii-c-warning-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 128,
+		      "name": "uii-d-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 129,
+		      "name": "uii-database-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 130,
+		      "name": "uii-d-chart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 131,
+		      "name": "uii-d-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 132,
+		      "name": "uii-d-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 133,
+		      "name": "uii-d-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 134,
+		      "name": "uii-delete-forever-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 135,
+		      "name": "uii-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 136,
+		      "name": "uii-dock-bottom-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 137,
+		      "name": "uii-dock-left-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 138,
+		      "name": "uii-dock-right-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 139,
+		      "name": "uii-dock-top-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 140,
+		      "name": "uii-d-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 141,
+		      "name": "uii-e-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 142,
+		      "name": "uii-e-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 143,
+		      "name": "uii-edit-note-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 144,
+		      "name": "uii-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 145,
+		      "name": "uii-email-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 146,
+		      "name": "uii-e-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 147,
+		      "name": "uii-event-confirm-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 148,
+		      "name": "uii-event-create-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 149,
+		      "name": "uii-eye-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 150,
+		      "name": "uii-f-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 151,
+		      "name": "uii-favorite-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 152,
+		      "name": "uii-fav-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 153,
+		      "name": "uii-f-chat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 154,
+		      "name": "uii-f-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 155,
+		      "name": "uii-f-comment-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 156,
+		      "name": "uii-f-dashboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 157,
+		      "name": "uii-f-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 158,
+		      "name": "uii-feedback-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 159,
+		      "name": "uii-filter-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 160,
+		      "name": "uii-filter-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 161,
+		      "name": "uii-filter-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 162,
+		      "name": "uii-filter-tool-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 163,
+		      "name": "uii-find-replace-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 164,
+		      "name": "uii-floppy-disk-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 165,
+		      "name": "uii-f-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 166,
+		      "name": "uii-fullsize-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 167,
+		      "name": "uii-funnel-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 168,
+		      "name": "uii-gallery-layout-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 169,
+		      "name": "uii-gallery-view-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 170,
+		      "name": "uii-gantt-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 171,
+		      "name": "uii-g-chart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 172,
+		      "name": "uii-g-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 173,
+		      "name": "uii-gear-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 174,
+		      "name": "uii-grid-interface-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 175,
+		      "name": "uii-grid-layout-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 176,
+		      "name": "uii-grid-view-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 177,
+		      "name": "uii-home-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 178,
+		      "name": "uii-home-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 179,
+		      "name": "uii-home-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 180,
+		      "name": "uii-hotspot-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 181,
+		      "name": "uii-hourglass-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 182,
+		      "name": "uii-house-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 183,
+		      "name": "uii-hyperlink-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 184,
+		      "name": "uii-i-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 185,
+		      "name": "uii-i-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 186,
+		      "name": "uii-i-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 187,
+		      "name": "uii-i-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 188,
+		      "name": "uii-incognito-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 189,
+		      "name": "uii-infinite-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 190,
+		      "name": "uii-info-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 191,
+		      "name": "uii-i-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 192,
+		      "name": "uii-key-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 193,
+		      "name": "uii-letter-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 194,
+		      "name": "uii-like-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 195,
+		      "name": "uii-link-broken-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 196,
+		      "name": "uii-link-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 197,
+		      "name": "uii-lock-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 198,
+		      "name": "uii-magnifier-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 199,
+		      "name": "uii-magnifier-zoom-in-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 200,
+		      "name": "uii-magnifier-zoom-out-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 201,
+		      "name": "uii-mail-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 202,
+		      "name": "uii-megaphone-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 203,
+		      "name": "uii-menu-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 204,
+		      "name": "uii-menu-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 205,
+		      "name": "uii-menu-4-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 206,
+		      "name": "uii-menu-5-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 207,
+		      "name": "uii-menu-6-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 208,
+		      "name": "uii-menu-7-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 209,
+		      "name": "uii-menu-8-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 210,
+		      "name": "uii-menu-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 211,
+		      "name": "uii-n-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 212,
+		      "name": "uii-n-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 213,
+		      "name": "uii-network-communication-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 214,
+		      "name": "uii-network-connection-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 215,
+		      "name": "uii-networking-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 216,
+		      "name": "uii-new-notification-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 217,
+		      "name": "uii-notification-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 218,
+		      "name": "uii-o-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 219,
+		      "name": "uii-o-warning-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 220,
+		      "name": "uii-padlock-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 221,
+		      "name": "uii-padlock-unlocked-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 222,
+		      "name": "uii-paragraph-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 223,
+		      "name": "uii-password-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 224,
+		      "name": "uii-p-chart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 225,
+		      "name": "uii-pen-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 226,
+		      "name": "uii-pen-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 227,
+		      "name": "uii-phone-call-end-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 228,
+		      "name": "uii-phone-call-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 229,
+		      "name": "uii-phone-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 230,
+		      "name": "uii-preferences-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 231,
+		      "name": "uii-preview-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 232,
+		      "name": "uii-privacy-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 233,
+		      "name": "uii-privacy-settings-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 234,
+		      "name": "uii-questionnaire-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 235,
+		      "name": "uii-question-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 236,
+		      "name": "uii-r-chat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 237,
+		      "name": "uii-remove-favorite-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 238,
+		      "name": "uii-remove-fav-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 239,
+		      "name": "uii-remove-like-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 240,
+		      "name": "uii-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 241,
+		      "name": "uii-s-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 242,
+		      "name": "uii-s-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 243,
+		      "name": "uii-screen-enlarge-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 244,
+		      "name": "uii-screen-maximize-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 245,
+		      "name": "uii-s-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 246,
+		      "name": "uii-search-content-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 247,
+		      "name": "uii-search-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 248,
+		      "name": "uii-search-zoom-in-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 249,
+		      "name": "uii-search-zoom-out-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 250,
+		      "name": "uii-security-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 251,
+		      "name": "uii-s-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 252,
+		      "name": "uii-segmentation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 253,
+		      "name": "uii-select-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 254,
+		      "name": "uii-send-message-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 255,
+		      "name": "uii-send-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 256,
+		      "name": "uii-settings-gear-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 257,
+		      "name": "uii-setup-options-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 258,
+		      "name": "uii-setup-preferences-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 259,
+		      "name": "uii-setup-tools-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 260,
+		      "name": "uii-s-info-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 261,
+		      "name": "uii-sort-tool-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 262,
+		      "name": "uii-s-question-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 263,
+		      "name": "uii-s-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 264,
+		      "name": "uii-star-rate-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 265,
+		      "name": "uii-s-warning-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 266,
+		      "name": "uii-switches-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 267,
+		      "name": "uii-system-configuration-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 268,
+		      "name": "uii-system-preferences-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 269,
+		      "name": "uii-table-move-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 270,
+		      "name": "uii-table-slide-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 271,
+		      "name": "uii-target-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 272,
+		      "name": "uii-toggle-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 273,
+		      "name": "uii-trash-can-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 274,
+		      "name": "uii-t-warning-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 275,
+		      "name": "uii-unlocked-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 276,
+		      "name": "uii-verified-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 277,
+		      "name": "uii-warning-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 278,
+		      "name": "uii-web-hyperlink-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 279,
+		      "name": "uii-web-link-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 280,
+		      "name": "uii-web-url-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 281,
+		      "name": "uii-widget-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 282,
+		      "name": "uii-window-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 283,
+		      "name": "uii-window-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 284,
+		      "name": "uii-wrench-tool-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 285,
+		      "name": "uii-zoom-in-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 286,
+		      "name": "uii-zoom-out-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 287,
+		      "name": "uii-access-key-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 288,
+		      "name": "uii-a-chat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 289,
+		      "name": "uii-add-favorite-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 290,
+		      "name": "uii-add-fav-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 291,
+		      "name": "uii-add-like-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"travel":{
+		"name":"Travel",
+		"description":"",
+		"list":[
+			{
+		      "order": 292,
+		      "name": "uii-beach-bat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 293,
+		      "name": "uii-binocular-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 294,
+		      "name": "uii-camping-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 295,
+		      "name": "uii-check-in-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 296,
+		      "name": "uii-check-out-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 297,
+		      "name": "uii-drink-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 298,
+		      "name": "uii-explore-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 299,
+		      "name": "uii-hotel-bell-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 300,
+		      "name": "uii-hotel-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 301,
+		      "name": "uii-hotel-uii-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 302,
+		      "name": "uii-hut-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 303,
+		      "name": "uii-igloo-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 304,
+		      "name": "uii-lamp-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 305,
+		      "name": "uii-luggage-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 306,
+		      "name": "uii-pasuii-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 307,
+		      "name": "uii-pickaxe-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 308,
+		      "name": "uii-road-sign-left-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 309,
+		      "name": "uii-road-sign-right-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 310,
+		      "name": "uii-security-gate-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 311,
+		      "name": "uii-shinto-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 312,
+		      "name": "uii-spaceship-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 313,
+		      "name": "uii-sunglasses-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 314,
+		      "name": "uii-swiss-knife-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 315,
+		      "name": "uii-umbrella-14-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 316,
+		      "name": "uii-world-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 317,
+		      "name": "uii-airport-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 318,
+		      "name": "uii-airport-trolley-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 319,
+		      "name": "uii-astronaut-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 320,
+		      "name": "uii-axe-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 321,
+		      "name": "uii-bag-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"trans":{
+		"name":"Transportation",
+		"description":"",
+		"list":[
+			{
+		      "order": 322,
+		      "name": "uii-boat-small-02-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 323,
+		      "name": "uii-boat-small-03-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 324,
+		      "name": "uii-brakes-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 325,
+		      "name": "uii-bus-front-10-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 326,
+		      "name": "uii-car-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 327,
+		      "name": "uii-car-accident-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 328,
+		      "name": "uii-car-connect-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 329,
+		      "name": "uii-car-door-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 330,
+		      "name": "uii-car-front-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 331,
+		      "name": "uii-car-lights-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 332,
+		      "name": "uii-car-parking-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 333,
+		      "name": "uii-car-ventilation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 334,
+		      "name": "uii-car-wash-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 335,
+		      "name": "uii-cone-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 336,
+		      "name": "uii-dashboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 337,
+		      "name": "uii-engine-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 338,
+		      "name": "uii-helicopter-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 339,
+		      "name": "uii-light-traffic-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 340,
+		      "name": "uii-moto-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 341,
+		      "name": "uii-parking-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 342,
+		      "name": "uii-plane-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 343,
+		      "name": "uii-rim-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 344,
+		      "name": "uii-seatbelt-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 345,
+		      "name": "uii-seat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 346,
+		      "name": "uii-shuttle-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 347,
+		      "name": "uii-speedometer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 348,
+		      "name": "uii-taxi-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 349,
+		      "name": "uii-tractor-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 350,
+		      "name": "uii-train-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 351,
+		      "name": "uii-tram-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 352,
+		      "name": "uii-truck-front-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 353,
+		      "name": "uii-trunk-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 354,
+		      "name": "uii-ventilation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 355,
+		      "name": "uii-vespa-front-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 356,
+		      "name": "uii-walk-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 357,
+		      "name": "uii-washing-fluid-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 358,
+		      "name": "uii-wheel-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 359,
+		      "name": "uii-wheel-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 360,
+		      "name": "uii-airbag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 361,
+		      "name": "uii-air-baloon-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 362,
+		      "name": "uii-airplane-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 363,
+		      "name": "uii-alien-33-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 364,
+		      "name": "uii-anchor-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 365,
+		      "name": "uii-boat-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"touch":{
+		"name":"Touch gestures",
+		"description":"",
+		"list":[
+			{
+		      "order": 366,
+		      "name": "uii-double-tap-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 367,
+		      "name": "uii-drag-21-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 368,
+		      "name": "uii-drag-31-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 369,
+		      "name": "uii-drag-down-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 370,
+		      "name": "uii-drag-left-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 371,
+		      "name": "uii-drag-right-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 372,
+		      "name": "uii-drag-up-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 373,
+		      "name": "uii-grab-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 374,
+		      "name": "uii-pin-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 375,
+		      "name": "uii-pinch-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 376,
+		      "name": "uii-rotate-22-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 377,
+		      "name": "uii-scan-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 378,
+		      "name": "uii-stretch-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 379,
+		      "name": "uii-swipe-bottom-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 380,
+		      "name": "uii-swipe-left-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 381,
+		      "name": "uii-swipe-right-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 382,
+		      "name": "uii-swipe-up-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 383,
+		      "name": "uii-tap-01-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 384,
+		      "name": "uii-tap-02-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 385,
+		      "name": "uii-2x-drag-down-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 386,
+		      "name": "uii-2x-drag-up-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 387,
+		      "name": "uii-active-38-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 388,
+		      "name": "uii-active-40-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 389,
+		      "name": "uii-camera-button-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"text":{
+		"name":"Text editing",
+		"description":"",
+		"list":[
+			{
+		      "order": 390,
+		      "name": "uii-a-tag-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 391,
+		      "name": "uii-a-tag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 392,
+		      "name": "uii-a-tag-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 393,
+		      "name": "uii-at-sign-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 394,
+		      "name": "uii-attachment-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 395,
+		      "name": "uii-attach-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 396,
+		      "name": "uii-background-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 397,
+		      "name": "uii-bold-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 398,
+		      "name": "uii-capitalize-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 399,
+		      "name": "uii-caps-small-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 400,
+		      "name": "uii-color-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 401,
+		      "name": "uii-decrease-font-size-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 402,
+		      "name": "uii-edit-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 403,
+		      "name": "uii-increase-font-size-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 404,
+		      "name": "uii-italic-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 405,
+		      "name": "uii-line-height-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 406,
+		      "name": "uii-list-bullet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 407,
+		      "name": "uii-list-numbers-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 408,
+		      "name": "uii-margin-left-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 409,
+		      "name": "uii-margin-right-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 410,
+		      "name": "uii-quote-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 411,
+		      "name": "uii-scale-horizontal-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 412,
+		      "name": "uii-scale-vertical-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 413,
+		      "name": "uii-strikethrough-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 414,
+		      "name": "uii-subscript-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 415,
+		      "name": "uii-superscript-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 416,
+		      "name": "uii-uii-size-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 417,
+		      "name": "uii-tracking-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 418,
+		      "name": "uii-underline-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 419,
+		      "name": "uii-unlink-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 420,
+		      "name": "uii-url-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 421,
+		      "name": "uii-align-center-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 422,
+		      "name": "uii-align-justify-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 423,
+		      "name": "uii-align-left-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 424,
+		      "name": "uii-align-right-2-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"tech":{
+		"name":"Technology",
+		"description":"",
+		"list":[
+			{
+		      "order": 425,
+		      "name": "uii-cctv-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 426,
+		      "name": "uii-cd-reader-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 427,
+		      "name": "uii-computer-monitor-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 428,
+		      "name": "uii-computer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 429,
+		      "name": "uii-connection-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 430,
+		      "name": "uii-contactless-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 431,
+		      "name": "uii-content-360deg-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 432,
+		      "name": "uii-content-delivery-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 433,
+		      "name": "uii-controller-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 434,
+		      "name": "uii-controller-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 435,
+		      "name": "uii-cyborg-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 436,
+		      "name": "uii-device-connection-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 437,
+		      "name": "uii-disk-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 438,
+		      "name": "uii-disk-reader-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 439,
+		      "name": "uii-electronic-circuit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 440,
+		      "name": "uii-engine-start-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 441,
+		      "name": "uii-e-reader-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 442,
+		      "name": "uii-eye-recognition-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 443,
+		      "name": "uii-firewall-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 444,
+		      "name": "uii-gaming-console-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 445,
+		      "name": "uii-gaming-controller-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 446,
+		      "name": "uii-h-dashboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 447,
+		      "name": "uii-hdmi-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 448,
+		      "name": "uii-keyboard-hide-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 449,
+		      "name": "uii-keyboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 450,
+		      "name": "uii-keyboard-wired-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 451,
+		      "name": "uii-keyboard-wireless-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 452,
+		      "name": "uii-l-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 453,
+		      "name": "uii-landscape-orientation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 454,
+		      "name": "uii-laptop-1-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 455,
+		      "name": "uii-laptop-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 456,
+		      "name": "uii-laptop-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 457,
+		      "name": "uii-l-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 458,
+		      "name": "uii-lock-landscape-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 459,
+		      "name": "uii-lock-portrait-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 460,
+		      "name": "uii-l-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 461,
+		      "name": "uii-l-system-update-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 462,
+		      "name": "uii-machine-learning-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 463,
+		      "name": "uii-metrics-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 464,
+		      "name": "uii-mobile-chat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 465,
+		      "name": "uii-music-player-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 466,
+		      "name": "uii-navigation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 467,
+		      "name": "uii-p-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 468,
+		      "name": "uii-parking-sensors-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 469,
+		      "name": "uii-pattern-recognition-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 470,
+		      "name": "uii-p-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 471,
+		      "name": "uii-pci-card-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 472,
+		      "name": "uii-pc-monitor-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 473,
+		      "name": "uii-pc-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 474,
+		      "name": "uii-p-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 475,
+		      "name": "uii-p-heart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 476,
+		      "name": "uii-phone-button-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 477,
+		      "name": "uii-phone-camera-front-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 478,
+		      "name": "uii-phone-charging-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 479,
+		      "name": "uii-phone-charging-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 480,
+		      "name": "uii-phone-charging-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 481,
+		      "name": "uii-phone-dock-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 482,
+		      "name": "uii-phone-toolbar-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 483,
+		      "name": "uii-p-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 484,
+		      "name": "uii-printer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 485,
+		      "name": "uii-print-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 486,
+		      "name": "uii-p-system-update-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 487,
+		      "name": "uii-ram-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 488,
+		      "name": "uii-ram-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 489,
+		      "name": "uii-reading-tablet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 490,
+		      "name": "uii-remote-control-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 491,
+		      "name": "uii-robotic-arm-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 492,
+		      "name": "uii-satellite-dish-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 493,
+		      "name": "uii-satellite-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 494,
+		      "name": "uii-screen-rotation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 495,
+		      "name": "uii-send-to-phone-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 496,
+		      "name": "uii-sensor-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 497,
+		      "name": "uii-server-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 498,
+		      "name": "uii-server-rack-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 499,
+		      "name": "uii-signal-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 500,
+		      "name": "uii-sim-card-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 501,
+		      "name": "uii-smartphone-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 502,
+		      "name": "uii-smartwatch-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 503,
+		      "name": "uii-socket-europe-1-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 504,
+		      "name": "uii-socket-europe-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 505,
+		      "name": "uii-socket-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 506,
+		      "name": "uii-socket-uk-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 507,
+		      "name": "uii-ssd-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 508,
+		      "name": "uii-sync-devices-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 509,
+		      "name": "uii-tablet-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 510,
+		      "name": "uii-tablet-charging-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 511,
+		      "name": "uii-tablet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 512,
+		      "name": "uii-tablet-toolbar-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 513,
+		      "name": "uii-tv-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 514,
+		      "name": "uii-vintage-computer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 515,
+		      "name": "uii-vintage-tv-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 516,
+		      "name": "uii-virtual-assistant-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 517,
+		      "name": "uii-virtual-environment-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 518,
+		      "name": "uii-voice-recognition-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 519,
+		      "name": "uii-vpn-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 520,
+		      "name": "uii-vr-controller-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 521,
+		      "name": "uii-vr-headset-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 522,
+		      "name": "uii-watch-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 523,
+		      "name": "uii-webcam-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 524,
+		      "name": "uii-webcam-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 525,
+		      "name": "uii-wifi-off-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 526,
+		      "name": "uii-wifi-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 527,
+		      "name": "uii-wifi-protected-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 528,
+		      "name": "uii-wifi-router-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 529,
+		      "name": "uii-wireless-charging-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 530,
+		      "name": "uii-ai-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 531,
+		      "name": "uii-augmented-reality-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 532,
+		      "name": "uii-automated-logistics-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 533,
+		      "name": "uii-cable-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"sport":{
+		"name":"Sports",
+		"description":"",
+		"list":[
+			
+		    {
+		      "order": 534,
+		      "name": "uii-athletics-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 535,
+		      "name": "uii-barbell-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 536,
+		      "name": "uii-baseball-bat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 537,
+		      "name": "uii-baseball-pitch-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 538,
+		      "name": "uii-baseball-player-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 539,
+		      "name": "uii-basketball-player-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 540,
+		      "name": "uii-basketball-ring-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 541,
+		      "name": "uii-bicep-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 542,
+		      "name": "uii-bike-bmx-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 543,
+		      "name": "uii-bike-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 544,
+		      "name": "uii-billiard-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 545,
+		      "name": "uii-body-back-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 546,
+		      "name": "uii-bodybuilder-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 547,
+		      "name": "uii-body-butt-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 548,
+		      "name": "uii-bowling-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 549,
+		      "name": "uii-bowling-pins-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 550,
+		      "name": "uii-boxing-bag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 551,
+		      "name": "uii-boxing-glove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 552,
+		      "name": "uii-boxing-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 553,
+		      "name": "uii-chequered-flag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 554,
+		      "name": "uii-cricket-bat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 555,
+		      "name": "uii-crown-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 556,
+		      "name": "uii-curling-stone-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 557,
+		      "name": "uii-cycling-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 558,
+		      "name": "uii-cycling-track-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 559,
+		      "name": "uii-dancer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 560,
+		      "name": "uii-dart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 561,
+		      "name": "uii-deadlift-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 562,
+		      "name": "uii-dumbbell-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 563,
+		      "name": "uii-elliptical-cross-trainer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 564,
+		      "name": "uii-equestrian-helmet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 565,
+		      "name": "uii-exercise-bike-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 566,
+		      "name": "uii-ez-bar-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 567,
+		      "name": "uii-fencing-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 568,
+		      "name": "uii-fencing-swords-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 569,
+		      "name": "uii-flip-up-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 570,
+		      "name": "uii-football-headguard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 571,
+		      "name": "uii-golf-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 572,
+		      "name": "uii-golf-club-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 573,
+		      "name": "uii-golf-course-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 574,
+		      "name": "uii-golf-strike-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 575,
+		      "name": "uii-handball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 576,
+		      "name": "uii-helmet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 577,
+		      "name": "uii-hockey-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 578,
+		      "name": "uii-hockey-stick-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 579,
+		      "name": "uii-hook-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 580,
+		      "name": "uii-ice-skates-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 581,
+		      "name": "uii-jump-rope-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 582,
+		      "name": "uii-karate-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 583,
+		      "name": "uii-kettlebell-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 584,
+		      "name": "uii-lat-station-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 585,
+		      "name": "uii-man-up-front-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 586,
+		      "name": "uii-mat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 587,
+		      "name": "uii-medicine-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 588,
+		      "name": "uii-olympic-flame-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 589,
+		      "name": "uii-paralympic-games-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 590,
+		      "name": "uii-pectoral-machine-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 591,
+		      "name": "uii-podium-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 592,
+		      "name": "uii-power-rack-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 593,
+		      "name": "uii-referee-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 594,
+		      "name": "uii-rings-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 595,
+		      "name": "uii-rowing-oars-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 596,
+		      "name": "uii-row-machine-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 597,
+		      "name": "uii-rugby-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 598,
+		      "name": "uii-shuttlecock-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 599,
+		      "name": "uii-skateboard-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 600,
+		      "name": "uii-skateboarding-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 601,
+		      "name": "uii-skateboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 602,
+		      "name": "uii-skating-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 603,
+		      "name": "uii-skipping-rope-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 604,
+		      "name": "uii-snorkel-mask-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 605,
+		      "name": "uii-snowboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 606,
+		      "name": "uii-soccer-field-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 607,
+		      "name": "uii-soccer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 608,
+		      "name": "uii-spa-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 609,
+		      "name": "uii-spinning-bike-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 610,
+		      "name": "uii-sports-fan-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 611,
+		      "name": "uii-stadium-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 612,
+		      "name": "uii-stair-climber-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 613,
+		      "name": "uii-steering-wheel-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 614,
+		      "name": "uii-surfboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 615,
+		      "name": "uii-swimming-pool-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 616,
+		      "name": "uii-table-tennis-bat-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 617,
+		      "name": "uii-tennis-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 618,
+		      "name": "uii-tennis-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 619,
+		      "name": "uii-tennis-racket-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 620,
+		      "name": "uii-trophy-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 621,
+		      "name": "uii-users-mm-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 622,
+		      "name": "uii-users-ww-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 623,
+		      "name": "uii-utility-bench-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 624,
+		      "name": "uii-volleyball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 625,
+		      "name": "uii-volleyball-player-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 626,
+		      "name": "uii-water-polo-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 627,
+		      "name": "uii-water-polo-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 628,
+		      "name": "uii-weight-bench-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 629,
+		      "name": "uii-weight-plate-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 630,
+		      "name": "uii-whistle-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 631,
+		      "name": "uii-windsurfing-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 632,
+		      "name": "uii-woman-up-front-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 633,
+		      "name": "uii-workout-plan-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 634,
+		      "name": "uii--stopwatch-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 635,
+		      "name": "uii-analytics-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 636,
+		      "name": "uii-archer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 637,
+		      "name": "uii-archery-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"symbol":{
+		"name":"Signs symbols",
+		"description":"",
+		"list":[
+			
+		    
+		    {
+		      "order": 638,
+		      "name": "uii-eight-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 639,
+		      "name": "uii-five-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 640,
+		      "name": "uii-four-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 641,
+		      "name": "uii-islam-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 642,
+		      "name": "uii-judaism-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 643,
+		      "name": "uii-letter-a-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 644,
+		      "name": "uii-letter-b-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 645,
+		      "name": "uii-letter-c-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 646,
+		      "name": "uii-letter-d-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 647,
+		      "name": "uii-letter-e-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 648,
+		      "name": "uii-letter-f-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 649,
+		      "name": "uii-letter-g-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 650,
+		      "name": "uii-letter-h-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 651,
+		      "name": "uii-letter-i-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 652,
+		      "name": "uii-letter-j-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 653,
+		      "name": "uii-letter-k-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 654,
+		      "name": "uii-letter-l-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 655,
+		      "name": "uii-letter-m-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 656,
+		      "name": "uii-letter-n-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 657,
+		      "name": "uii-letter-o-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 658,
+		      "name": "uii-letter-p-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 659,
+		      "name": "uii-letter-q-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 660,
+		      "name": "uii-nine-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 661,
+		      "name": "uii-one-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 662,
+		      "name": "uii-seven-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 663,
+		      "name": "uii-six-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 664,
+		      "name": "uii-taoism-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 665,
+		      "name": "uii-three-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 666,
+		      "name": "uii-two-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 667,
+		      "name": "uii-zero-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 668,
+		      "name": "uii-bahai-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 669,
+		      "name": "uii-buddhism-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 670,
+		      "name": "uii-christianity-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 671,
+		      "name": "uii-druidism-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"shop":{
+		"name":"Shopping",
+		"description":"",
+		"list":[
+			
+		    {
+		      "order": 672,
+		      "name": "uii-add-to-cart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 673,
+		      "name": "uii-award-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 674,
+		      "name": "uii-bag-16-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 675,
+		      "name": "uii-bag-17-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 676,
+		      "name": "uii-bag-20-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 677,
+		      "name": "uii-bag-add-18-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 678,
+		      "name": "uii-bag-add-21-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 679,
+		      "name": "uii-bag-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 680,
+		      "name": "uii-bag-remove-19-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 681,
+		      "name": "uii-bag-remove-22-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 682,
+		      "name": "uii-bag-time-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 683,
+		      "name": "uii-barcode-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 684,
+		      "name": "uii-barcode-qr-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 685,
+		      "name": "uii-basket-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 686,
+		      "name": "uii-basket-simple-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 687,
+		      "name": "uii-basket-simple-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 688,
+		      "name": "uii-basket-simple-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 689,
+		      "name": "uii-billboard-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 690,
+		      "name": "uii-box-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 691,
+		      "name": "uii-box-ribbon-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 692,
+		      "name": "uii-cart-favorite-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 693,
+		      "name": "uii-cart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 694,
+		      "name": "uii-cart-return-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 695,
+		      "name": "uii-cart-simple-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 696,
+		      "name": "uii-cart-simple-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 697,
+		      "name": "uii-cart-speed-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 698,
+		      "name": "uii-cash-register-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 699,
+		      "name": "uii-cheque-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 700,
+		      "name": "uii-cheque-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 701,
+		      "name": "uii-coupon-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 702,
+		      "name": "uii-customer-support-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 703,
+		      "name": "uii-delivery-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 704,
+		      "name": "uii-delivery-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 705,
+		      "name": "uii-delivery-fast-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 706,
+		      "name": "uii-discount-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 707,
+		      "name": "uii-discount-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 708,
+		      "name": "uii-lifering-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 709,
+		      "name": "uii-list-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 710,
+		      "name": "uii-market-music-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 711,
+		      "name": "uii-market-play-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 712,
+		      "name": "uii-newsletter-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 713,
+		      "name": "uii-present-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 714,
+		      "name": "uii-receipt-list-42-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 715,
+		      "name": "uii-receipt-list-43-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 716,
+		      "name": "uii-receipt-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 717,
+		      "name": "uii-scale-4-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 718,
+		      "name": "uii-shopping-bag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 719,
+		      "name": "uii-shopping-cart-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 720,
+		      "name": "uii-shopping-cart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 721,
+		      "name": "uii-shopping-label-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 722,
+		      "name": "uii-shopping-tag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 723,
+		      "name": "uii-sign-board-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 724,
+		      "name": "uii-stock-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 725,
+		      "name": "uii-storage-unit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 726,
+		      "name": "uii-support-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 727,
+		      "name": "uii-tag-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 728,
+		      "name": "uii-tag-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 729,
+		      "name": "uii-tag-cut-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 730,
+		      "name": "uii-tag-loyalty-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 731,
+		      "name": "uii-tag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 732,
+		      "name": "uii-tag-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 733,
+		      "name": "uii-tags-stack-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 734,
+		      "name": "uii-wallet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 735,
+		      "name": "uii-a-chart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 736,
+		      "name": "uii-add-to-cart-2-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+	"edu":{
+		"name":"School education",
+		"description":"",
+		"list":[
+			
+		    {
+		      "order": 737,
+		      "name": "uii-agenda-bookmark-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 738,
+		      "name": "uii-award-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 739,
+		      "name": "uii-backpack-57-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 740,
+		      "name": "uii-backpack-58-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 741,
+		      "name": "uii-basketball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 742,
+		      "name": "uii-board-51-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 743,
+		      "name": "uii-book-39-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 744,
+		      "name": "uii-book-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 745,
+		      "name": "uii-books-46-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 746,
+		      "name": "uii-bus-front-12-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 747,
+		      "name": "uii-buzz-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 748,
+		      "name": "uii-cart-favorite-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 749,
+		      "name": "uii-contactless-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 750,
+		      "name": "uii-glasses-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 751,
+		      "name": "uii-globe-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 752,
+		      "name": "uii-hat-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 753,
+		      "name": "uii-language-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 754,
+		      "name": "uii-letter-b-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 755,
+		      "name": "uii-medal-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 756,
+		      "name": "uii-notepad-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 757,
+		      "name": "uii-paper-diploma-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 758,
+		      "name": "uii-pencil-47-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 759,
+		      "name": "uii-pencil-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 760,
+		      "name": "uii-planet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 761,
+		      "name": "uii-school-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 762,
+		      "name": "uii-six-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 763,
+		      "name": "uii-soccer-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 764,
+		      "name": "uii-survey-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 765,
+		      "name": "uii-telescope-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 766,
+		      "name": "uii-translation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 767,
+		      "name": "uii-a-chart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 768,
+		      "name": "uii-add-to-cart-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 769,
+		      "name": "uii-add-to-cart-outline",
+		      "prevSize": 32
+		    },   
+		]
+	},
+	"media":{
+		"name":"Multimedia",
+		"description":"",
+		"list":[
+			{
+		      "order": 770,
+		      "name": "uii-audio-jack-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 771,
+		      "name": "uii-auto-focus-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 772,
+		      "name": "uii-backpack-57-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 773,
+		      "name": "uii-backpack-58-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 774,
+		      "name": "uii-basketball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 775,
+		      "name": "uii-board-51-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 776,
+		      "name": "uii-book-39-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 777,
+		      "name": "uii-book-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 778,
+		      "name": "uii-books-46-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 779,
+		      "name": "uii-brightness-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 780,
+		      "name": "uii-bus-front-12-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 781,
+		      "name": "uii-button-eject-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 782,
+		      "name": "uii-button-next-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 783,
+		      "name": "uii-button-pause-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 784,
+		      "name": "uii-button-play-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 785,
+		      "name": "uii-button-power-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 786,
+		      "name": "uii-button-previous-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 787,
+		      "name": "uii-button-record-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 788,
+		      "name": "uii-button-rewind-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 789,
+		      "name": "uii-button-skip-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 790,
+		      "name": "uii-button-stop-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 791,
+		      "name": "uii-buzz-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 792,
+		      "name": "uii-camera-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 793,
+		      "name": "uii-camera-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 794,
+		      "name": "uii-camera-flash-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 795,
+		      "name": "uii-camera-focus-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 796,
+		      "name": "uii-camera-focus-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 797,
+		      "name": "uii-camera-lens-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 798,
+		      "name": "uii-camera-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 799,
+		      "name": "uii-camera-roll-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 800,
+		      "name": "uii-camera-shooting-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 801,
+		      "name": "uii-camera-timer-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 802,
+		      "name": "uii-compact-camera-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 803,
+		      "name": "uii-countdown-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 804,
+		      "name": "uii-earbuds-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 805,
+		      "name": "uii-edit-color-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 806,
+		      "name": "uii-edit-contrast-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 807,
+		      "name": "uii-edit-saturation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 808,
+		      "name": "uii-event-ticket-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 809,
+		      "name": "uii-face-recognition-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 810,
+		      "name": "uii-film-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 811,
+		      "name": "uii-flashlight-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 812,
+		      "name": "uii-frame-effect-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 813,
+		      "name": "uii-full-screen-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 814,
+		      "name": "uii-glasses-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 815,
+		      "name": "uii-globe-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 816,
+		      "name": "uii-grid-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 817,
+		      "name": "uii-hat-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 818,
+		      "name": "uii-headphones-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 819,
+		      "name": "uii-headphones-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 820,
+		      "name": "uii-headphones-mic-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 821,
+		      "name": "uii-headphones-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 822,
+		      "name": "uii-image-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 823,
+		      "name": "uii-image-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 824,
+		      "name": "uii-img-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 825,
+		      "name": "uii-instant-camera-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 826,
+		      "name": "uii-knob-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 827,
+		      "name": "uii-language-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 828,
+		      "name": "uii-lightning-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 829,
+		      "name": "uii-loudspeaker-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 830,
+		      "name": "uii-medal-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 831,
+		      "name": "uii-uii-player-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 832,
+		      "name": "uii-mic-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 833,
+		      "name": "uii-mic-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 834,
+		      "name": "uii-microphone-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 835,
+		      "name": "uii-microphone-off-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 836,
+		      "name": "uii-microphone-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 837,
+		      "name": "uii-movie-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 838,
+		      "name": "uii-movie-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 839,
+		      "name": "uii-movie-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 840,
+		      "name": "uii-movie-reel-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 841,
+		      "name": "uii-music-album-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 842,
+		      "name": "uii-music-note-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 843,
+		      "name": "uii-music-playlist-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 844,
+		      "name": "uii-night-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 845,
+		      "name": "uii-no-photo-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 846,
+		      "name": "uii-notepad-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 847,
+		      "name": "uii-options-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 848,
+		      "name": "uii-paper-diploma-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 849,
+		      "name": "uii-pc-play-uii-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 850,
+		      "name": "uii-pencil-47-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 851,
+		      "name": "uii-pencil-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 852,
+		      "name": "uii-phone-camera-back-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 853,
+		      "name": "uii-phone-music-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 854,
+		      "name": "uii-photo-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 855,
+		      "name": "uii-picture-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 856,
+		      "name": "uii-planet-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 857,
+		      "name": "uii-player-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 858,
+		      "name": "uii-playlist-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 859,
+		      "name": "uii-play-uii-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 860,
+		      "name": "uii-play-movie-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 861,
+		      "name": "uii-podcast-mic-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 862,
+		      "name": "uii-podcast-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 863,
+		      "name": "uii-polaroid-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 864,
+		      "name": "uii-polaroid-photo-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 865,
+		      "name": "uii-polaroid-shot-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 866,
+		      "name": "uii-polaroid-shot-new-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 867,
+		      "name": "uii-polaroid-shots-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 868,
+		      "name": "uii-progress-indicator-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 869,
+		      "name": "uii-radio-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 870,
+		      "name": "uii-save-to-list-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 871,
+		      "name": "uii-school-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 872,
+		      "name": "uii-screen-touch-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 873,
+		      "name": "uii-sd-card-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 874,
+		      "name": "uii-sharpen-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 875,
+		      "name": "uii-soccer-ball-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 876,
+		      "name": "uii-sound-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 877,
+		      "name": "uii-soundwave-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 878,
+		      "name": "uii-sound-wave-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 879,
+		      "name": "uii-speaker-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 880,
+		      "name": "uii-sticker-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 881,
+		      "name": "uii-subtitles-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 882,
+		      "name": "uii-survey-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 883,
+		      "name": "uii-telescope-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 884,
+		      "name": "uii-ticket-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 885,
+		      "name": "uii-translation-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 886,
+		      "name": "uii-tripod-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 887,
+		      "name": "uii-video-camera-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 888,
+		      "name": "uii-video-gallery-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 889,
+		      "name": "uii-video-off-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 890,
+		      "name": "uii-video-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 891,
+		      "name": "uii-video-player-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 892,
+		      "name": "uii-video-playlist-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 893,
+		      "name": "uii-vignette-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 894,
+		      "name": "uii-volume-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 895,
+		      "name": "uii-volume-down-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 896,
+		      "name": "uii-volume-up-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 897,
+		      "name": "uii-white-balance-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 898,
+		      "name": "uii-3d-glasses-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 899,
+		      "name": "uii-agenda-bookmark-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 900,
+		      "name": "uii-antenna-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 901,
+		      "name": "uii-aperture-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 902,
+		      "name": "uii-audio-description-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+
+	"map":{
+		"name":"Maps & Locations",
+		"description":"",
+		"list":[
+			
+		    {
+		      "order": 903,
+		      "name": "uii-bookmark-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 904,
+		      "name": "uii-bookmark-delete-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 905,
+		      "name": "uii-bookmark-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 906,
+		      "name": "uii-bookmark-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 907,
+		      "name": "uii-compass-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 908,
+		      "name": "uii-compass-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 909,
+		      "name": "uii-compass-04-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 910,
+		      "name": "uii-compass-05-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 911,
+		      "name": "uii-compass-06-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 912,
+		      "name": "uii-construction-sign-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 913,
+		      "name": "uii-crosshair-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 914,
+		      "name": "uii-crossroad-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 915,
+		      "name": "uii-directions-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 916,
+		      "name": "uii-distance-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 917,
+		      "name": "uii-explore-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 918,
+		      "name": "uii-flag-diagonal-33-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 919,
+		      "name": "uii-flag-diagonal-34-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 920,
+		      "name": "uii-flag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 921,
+		      "name": "uii-flag-points-31-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 922,
+		      "name": "uii-flag-points-32-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 923,
+		      "name": "uii-flag-simple-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 924,
+		      "name": "uii-gps-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 925,
+		      "name": "uii-journey-04-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 926,
+		      "name": "uii-journey-05-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 927,
+		      "name": "uii-journey-06-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 928,
+		      "name": "uii-journey-07-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 929,
+		      "name": "uii-journey-08-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 930,
+		      "name": "uii-m-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 931,
+		      "name": "uii-uii-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 932,
+		      "name": "uii-marker-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 933,
+		      "name": "uii-marker-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 934,
+		      "name": "uii-m-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 935,
+		      "name": "uii-m-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 936,
+		      "name": "uii-m-heart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 937,
+		      "name": "uii-m-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 938,
+		      "name": "uii-m-security-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 939,
+		      "name": "uii-m-update-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 940,
+		      "name": "uii-pennant-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 941,
+		      "name": "uii-pin-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 942,
+		      "name": "uii-pin-4-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 943,
+		      "name": "uii-pin-add-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 944,
+		      "name": "uii-pin-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 945,
+		      "name": "uii-pin-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 946,
+		      "name": "uii-pin-copy-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 947,
+		      "name": "uii-pin-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 948,
+		      "name": "uii-pin-heart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 949,
+		      "name": "uii-pin-remove-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 950,
+		      "name": "uii-pin-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 951,
+		      "name": "uii-pin-security-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 952,
+		      "name": "uii-pins-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 953,
+		      "name": "uii-position-marker-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 954,
+		      "name": "uii-radar-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 955,
+		      "name": "uii-road-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 956,
+		      "name": "uii-treasure-uii-40-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 957,
+		      "name": "uii-appointment-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 958,
+		      "name": "uii-bookmark-add-2-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+
+	"load":{
+		"name":"Loaders",
+		"description":"",
+		"list":[
+			
+		    {
+		      "order": 903,
+		      "name": "uii-bookmark-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 904,
+		      "name": "uii-bookmark-delete-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 905,
+		      "name": "uii-bookmark-delete-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 906,
+		      "name": "uii-bookmark-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 907,
+		      "name": "uii-compass-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 908,
+		      "name": "uii-compass-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 909,
+		      "name": "uii-compass-04-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 910,
+		      "name": "uii-compass-05-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 911,
+		      "name": "uii-compass-06-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 912,
+		      "name": "uii-construction-sign-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 913,
+		      "name": "uii-crosshair-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 914,
+		      "name": "uii-crossroad-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 915,
+		      "name": "uii-directions-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 916,
+		      "name": "uii-distance-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 917,
+		      "name": "uii-explore-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 918,
+		      "name": "uii-flag-diagonal-33-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 919,
+		      "name": "uii-flag-diagonal-34-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 920,
+		      "name": "uii-flag-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 921,
+		      "name": "uii-flag-points-31-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 922,
+		      "name": "uii-flag-points-32-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 923,
+		      "name": "uii-flag-simple-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 924,
+		      "name": "uii-gps-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 925,
+		      "name": "uii-journey-04-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 926,
+		      "name": "uii-journey-05-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 927,
+		      "name": "uii-journey-06-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 928,
+		      "name": "uii-journey-07-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 929,
+		      "name": "uii-journey-08-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 930,
+		      "name": "uii-m-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 931,
+		      "name": "uii-uii-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 932,
+		      "name": "uii-marker-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 933,
+		      "name": "uii-marker-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 934,
+		      "name": "uii-m-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 935,
+		      "name": "uii-m-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 936,
+		      "name": "uii-m-heart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 937,
+		      "name": "uii-m-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 938,
+		      "name": "uii-m-security-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 939,
+		      "name": "uii-m-update-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 940,
+		      "name": "uii-pennant-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 941,
+		      "name": "uii-pin-3-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 942,
+		      "name": "uii-pin-4-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 943,
+		      "name": "uii-pin-add-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 944,
+		      "name": "uii-pin-add-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 945,
+		      "name": "uii-pin-check-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 946,
+		      "name": "uii-pin-copy-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 947,
+		      "name": "uii-pin-edit-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 948,
+		      "name": "uii-pin-heart-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 949,
+		      "name": "uii-pin-remove-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 950,
+		      "name": "uii-pin-remove-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 951,
+		      "name": "uii-pin-security-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 952,
+		      "name": "uii-pins-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 953,
+		      "name": "uii-position-marker-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 954,
+		      "name": "uii-radar-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 955,
+		      "name": "uii-road-2-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 956,
+		      "name": "uii-treasure-uii-40-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 957,
+		      "name": "uii-appointment-outline",
+		      "prevSize": 32
+		    },
+		    {
+		      "order": 958,
+		      "name": "uii-bookmark-add-2-outline",
+		      "prevSize": 32
+		    },
+		]
+	},
+
+}

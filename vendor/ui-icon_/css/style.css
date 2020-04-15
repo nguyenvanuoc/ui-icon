@@ -23,24 +23,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.uii-file-chart-bar:before {
-  content: "\f9eb";
-}
-.uii-file-chart-pie:before {
-  content: "\f9ec";
-}
-.uii-scale:before {
-  content: "\f9ed";
-}
-.uii-tree:before {
-  content: "\f9ee";
-}
-.uii-tree-money:before {
-  content: "\f9ef";
-}
-.uii-chart-bar-33:before {
-  content: "\f9f0";
-}
+
 .uii-cloud-hail-outline:before {
   content: "\e900";
 }
