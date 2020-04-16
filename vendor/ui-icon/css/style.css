@@ -23,6 +23,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.uii-eGOV:before {
+  content: "\f9f1";
+}
 .uii-file-chart-bar:before {
   content: "\f9eb";
 }
