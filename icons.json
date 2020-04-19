@@ -6,6 +6,11 @@
         "list": [
         {
             "order": 4338,
+            "name": "uii-eGOV",
+            "prevSize": 32
+        },
+        {
+            "order": 4338,
             "name": "uii-file-chart-bar",
             "prevSize": 32
         },
