@@ -1,7 +1,6 @@
 {
     "others":
     {
-        "id":1,
         "name": "Others",
         "description": "",
         "list": [
@@ -495,7 +494,7 @@
             "order": 45,
             "name": "uii-clouuii-fog-32-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "users":
     {
@@ -871,7 +870,7 @@
             "order": 82,
             "name": "uii-aduii-29-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "ui":
     {
@@ -3047,7 +3046,7 @@
             "order": 291,
             "name": "uii-aduii-like-outline",
             "prevSize": 32
-        }]
+        }, ]
     },
     "travel":
     {
@@ -3358,7 +3357,7 @@
             "order": 321,
             "name": "uii-bag-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "trans":
     {
@@ -3804,7 +3803,7 @@
             "order": 365,
             "name": "uii-boat-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "touch":
     {
@@ -4051,7 +4050,7 @@
                 "order": 389,
                 "name": "uii-cameruii-button-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
     "text":
@@ -4409,7 +4408,7 @@
                 "order": 424,
                 "name": "uii-align-right-2-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
     "tech":
@@ -5507,7 +5506,7 @@
                 "order": 533,
                 "name": "uii-cable-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
     "sport":
@@ -6449,7 +6448,7 @@
             "order": 637,
             "name": "uii-archery-outline",
             "prevSize": 32
-        }]
+        }, ]
     },
     "symbol":
     {
@@ -6797,7 +6796,7 @@
                 "order": 671,
                 "name": "uii-druidism-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
     "social":
@@ -7104,7 +7103,7 @@
             "order": 2638,
             "name": "uii-logo-angellist",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "shop":
     {
@@ -7761,7 +7760,7 @@
                 "order": 736,
                 "name": "uii-aduii-to-cart-2-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
     "edu":
@@ -8059,7 +8058,7 @@
                 "order": 769,
                 "name": "uii-aduii-to-cart-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
     "media":
@@ -9277,7 +9276,7 @@
                 "order": 902,
                 "name": "uii-audio-description-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
 
@@ -9885,7 +9884,7 @@
             "order": 958,
             "name": "uii-bookmark-aduii-2-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
 
     "load":
@@ -9952,7 +9951,7 @@
             "order": 964,
             "name": "uii-l-circle-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
 
     "hb":
@@ -10414,7 +10413,7 @@
             "order": 1009,
             "name": "uii-apartment-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "hm":
     {
@@ -10900,7 +10899,7 @@
             "order": 1057,
             "name": "uii-bag-50-outline",
             "prevSize": 32
-        }]
+        }, ]
     },
     "ff":
     {
@@ -11326,7 +11325,7 @@
             "order": 1095,
             "name": "uii-archive-check-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "ee":
     {
@@ -11673,7 +11672,7 @@
                 "order": 1129,
                 "name": "uii-battery-charging-outline",
                 "prevSize": 32
-            }
+            },
         ]
     },
     "emo":
@@ -12140,7 +12139,7 @@
             "order": 1167,
             "name": "uii-alien-29-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "design":
     {
@@ -18071,7 +18070,7 @@
             "order": 1621,
             "name": "uii-3uii-29-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "bussiness":
     {
@@ -18927,7 +18926,7 @@
             "order": 1706,
             "name": "uii-agenduii-outline",
             "prevSize": 32
-        } ]
+        }, ]
     },
     "arrows":
     {
@@ -21859,8 +21858,8 @@
                 "order": 1944,
                 "name": "uii-arrow-bottom-left-outline",
                 "prevSize": 32
-            }
+            },
         ]
-    }
+    },
 
 }
