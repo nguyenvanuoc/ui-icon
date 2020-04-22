@@ -3,24 +3,19 @@ layout: default
 title: Blog
 permalink: /icons/
 ---
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h1 class="page-heading">Products</h1>
-<ul class="post-list">
-	{% for product in site.data.icons %}
-		<span>{{product[1].name}}</span>
-		<ul>
-		    {% for item in product[1].list %}
-		    	<li>Title: {{ item.name }}</li>
-		    {% endfor %}
-		</ul>
-	{% endfor %}  
-	
-</ul>
+<div class="box-wrapper-icon">
+	<ul class="post-list">
+		{% for product in site.data.icons %}
+			<span>{{product[1].name}}</span>
+			<ul>
+			    {% for item in product[1].list %}
+			    	<li>Title: {{ item.name }}</li>
+			    {% endfor %}
+			</ul>
+		{% endfor %}  
+		
+	</ul>
+</div>
 
 <script>
 
