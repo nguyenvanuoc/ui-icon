@@ -1,95 +1,39 @@
-<html>
+---
+layout: default
+title: Blog
+permalink: /icons/
+---
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<h1 class="page-heading">Products</h1>
+<ul class="post-list">
+	{% for product in site.data.icons %}
+		<span>{{product[1].name}}</span>
+		<ul>
+		    {% for item in product[1].list %}
+		    	<li>Title: {{ item.name }}</li>
+		    {% endfor %}
+		</ul>
+	{% endfor %}  
+	
+</ul>
 
-<head>
-    <meta charset="UTF-8">
-    <title>UI icon Font</title>
-    <meta content="width=device-width, initial-scale=1" name="viewport" id="viewport">
-    </meta>
-    <meta content="Thời trang nam phong cách trẻ trung năng động của nam giới, xu thế thời trang 2016" name="description">
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    </meta>
-    <meta content="width=device-width, initial-scale=1" name="viewport" id="viewport">
-    </meta>
-    <meta content="index, follow" name="ROBOTS">
-    <link rel="stylesheet" href="vendor/ui-icon/css/style.css">
-    <link rel="stylesheet" type="text/css" href="vendor/ap8/css/style.css">
-    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="vendor/highlight/styles/github.css">
-    <link rel="stylesheet" href="css/style.css">
-    <script type="text/javascript" src="vendor/jquery/jquery.2.1.1.min.js"></script>
-    <script type="text/javascript" src="vendor/bootstrap/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="vendor/highlight/highlight.pack.js"></script>
-</head>
+<script>
 
-<body>
-    <div class="overlay-common"></div>
-    <div class="header">
-        <div class="container">
-            <div class="relative content">
-                <div class="logo">
-                    <span class="icon uii-app-store-outline"></span> UI Icon
-                </div>
-                <div class="nav-toggle">
-                    <span class="-ap icon icon-menu"></span>
-                </div>
-                <ul class="menus">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">Icons </a></li>
-                    <li><a href="https://drive.google.com/file/d/1EDWjY-gCaBIvF3e9E3mPjx0ip44MIZmh/view?usp=sharing" class="btn btn-download"><span class="uii-data-download-outline icon"></span> Download </a></li>
-                    <li><a href="#" class="btn btn-donate">Donate </a></li>
-                </ul>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-    <div class="main-wrapper">
-        <div class="container">
-            <ul class="breadcrumb">
-                <li><a href="#" class="link">Home</a></li>
-                <li><a href="#" class="link">Icons</a></li>
-            </ul>
-            <script type="text/javascript">
-                $.getJSON('icons.json', { get_param: 'value' }, function(data) {
-                    $.each(data, function(index, element) {
-                        $('body').append($('<div>', {
-                            text: element.name
-                        }));
-                    });
-                });
-            </script>
-        </div>
-    </div>
-     <!-- The text field -->
-    <div class="box-text-fixed">
-		<input type="text" value="Hello World" id="inputIcon">
-	</div>
-	<!-- The button used to copy the text -->
-    <script type="text/javascript" src="js/custom.js"></script>
-    <script>
-    	hljs.initHighlightingOnLoad();
-    	function copyText() {
-		  /* Get the text field */
-		  var copyText = document.getElementById("inputIcon");
+	$.getJSON("/data/icons.json", function(result){
+		
+	    console.log(result);
+	    var data=result;
+	    var list=data.others.list;
 
-		  /* Select the text field */
-		  copyText.select();
-		  copyText.setSelectionRange(0, 99999); /*For mobile devices*/
-
-		  /* Copy the text inside the text field */
-		  document.execCommand("copy");
-
-		  /* Alert the copied text */
-		  console.log("Copied the text: " + copyText.value);
-		} 
-		$(".glyph").click(function(){
-			var text= $(this).find(".mls").text();
-			$("#inputIcon").val(text);
-			console.log($("#inputIcon").val());
-			copyText();
-			$(".glyph").removeClass("copied");
-			$(this).addClass("copied");
-		});
-    </script>
-</body>
-
-</html>
+      	console.log(data.others.name);
+      	console.log(data.others.list);
+      	for (var i = 0; i < list.length; i++) {
+      		console.log(i);
+      	}
+	  });
+</script>
